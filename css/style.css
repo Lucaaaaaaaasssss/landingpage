@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css2?family=Lora:wght@300;400;700&family=Roboto:wght@300;400;500;600&display=swap);
+@import url("components/card.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+
+h1,h2,h3 {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+
